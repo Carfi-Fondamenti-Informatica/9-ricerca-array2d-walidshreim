@@ -1,6 +1,5 @@
 #include <iostream>
 #include "lib.h"
-#include <cstring>
 using namespace std;
 
 int main(){
