@@ -1,5 +1,6 @@
 #include <iostream>
 #include "lib.h"
+#include <cstring>
 using namespace std;
 
 int main(){
@@ -10,7 +11,7 @@ int main(){
   }
   cin>>f[0];
   if (ricerca (a, f, pos)){
-    cout<< pos<< endl;
+    cout<< pos << endl;
   }else{
     cout << "non presente " << endl:
   }
